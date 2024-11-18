@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56de771e-09d8-48ca-bfd4-add357c1cf5e" name="Changes" comment="update">
+    <list default="true" id="56de771e-09d8-48ca-bfd4-add357c1cf5e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/user.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user.java" afterDir="false" />
     </list>
@@ -22,7 +22,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -65,7 +64,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/My Code/WattGuard/Tugas_Besar/src/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -109,12 +108,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="push" />
-    <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
-    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
