@@ -1,3 +1,5 @@
+package WattGuard;
+
 import java.util.Scanner;
 
 public class Chatbot {

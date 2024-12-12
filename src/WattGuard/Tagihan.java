@@ -1,3 +1,5 @@
+package WattGuard;
+
 public class Tagihan {
     // Atribut
     private String idTagihan;
@@ -19,20 +21,20 @@ public class Tagihan {
 
     // Metode untuk mencetak informasi tagihan
     public void printTagihan() {
-        System.out.println("=== Informasi Tagihan ===");
-        System.out.println("ID Tagihan        : " + idTagihan);
+        System.out.println("=== Informasi WattGuard.Tagihan ===");
+        System.out.println("ID WattGuard.Tagihan        : " + idTagihan);
         System.out.println("Status            : " + (status ? "Lunas" : "Belum Lunas"));
         System.out.println("Metode Pembayaran : " + metodePembayaran);
         System.out.println("Tanggal           : " + tanggal);
         System.out.println("Biaya Admin       : Rp " + biayaAdmin);
-        System.out.println("Total Tagihan     : Rp " + total);
+        System.out.println("Total WattGuard.Tagihan     : Rp " + total);
     }
 
     // Metode untuk membayar tagihan
     public void bayarTagihan(int jumlahBayar) {
         if (jumlahBayar >= total) {
             status = true;
-            System.out.println("Pembayaran berhasil! Tagihan telah lunas.");
+            System.out.println("Pembayaran berhasil! WattGuard.Tagihan telah lunas.");
         } else {
             System.out.println("Pembayaran gagal! Jumlah yang dibayarkan kurang.");
         }

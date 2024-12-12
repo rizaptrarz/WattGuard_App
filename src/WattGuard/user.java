@@ -1,3 +1,5 @@
+package WattGuard;
+
 public class user {
     private String user_name;
     private String id_user;
@@ -56,7 +58,7 @@ public class user {
         this.alamat_user = alamat_user;
     }
 
-    // Method to print user information
+    // Method to print WattGuard.user information
     public void printUserInfo() {
         System.out.println("User Information:");
         System.out.println("Username: " + user_name);
